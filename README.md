@@ -1,4 +1,7 @@
-# test coverage for  [mailcomposer (v4.0.2)](https://github.com/andris9/mailcomposer#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-mailcomposer.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mailcomposer) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mailcomposer.svg)](https://travis-ci.org/npmtest/node-npmtest-mailcomposer)
+# npmtest-mailcomposer
+
+#### basic test coverage for  [mailcomposer (v4.0.2)](https://github.com/andris9/mailcomposer#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-mailcomposer.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mailcomposer) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mailcomposer.svg)](https://travis-ci.org/npmtest/node-npmtest-mailcomposer)
+
 #### Compose E-Mail messages
 
 [![NPM](https://nodei.co/npm/mailcomposer.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/mailcomposer)
@@ -83,7 +86,8 @@
     "scripts": {
         "test": "grunt mochaTest"
     },
-    "version": "4.0.2"
+    "version": "4.0.2",
+    "bin": {}
 }
 ```
 
